@@ -1,0 +1,8 @@
+
+numpy
+pytesseract
+ultralytics
+deep_sort_realtime
+pandas
+streamlit
+opencv-python
