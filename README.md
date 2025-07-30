@@ -120,7 +120,7 @@ deep_sort_realtime
 
 ## 👨‍💻 Author
 
-**Abdullah Gour**  
+**Abdullah **  
 AI Engineer | Computer Vision | OCR | YOLO | Streamlit Dashboard Creator
 
 ---
